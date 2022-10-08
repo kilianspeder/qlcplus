@@ -1,5 +1,7 @@
-Q Light Controller Plus 4
-=========================
+# Q Light Controller Plus 4
+#### forked to combine audio fix from ver. 4.12.3 with ver. 4.11.3 because ver. 4.12.0 changed some behaviour that broke some of my show files
+
+------------------
 
 ![QLC+ LOGO](resources/icons/png/qlcplus.png)
 
